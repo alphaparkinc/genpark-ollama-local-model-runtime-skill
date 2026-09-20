@@ -1,0 +1,15 @@
+{
+  "name": "@alphapark/genpark-ollama-local-model-runtime-skill",
+  "version": "1.0.0",
+  "description": "GenPark AI Agent Skill - Ollama local LLM runtime orchestration, offline tool calling, GPU memory layer offloading, and private agent pipelines.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "Apache-2.0",
+  "keywords": [
+    "genpark",
+    "ollama",
+    "agentic-skill",
+    "ai-inference",
+    "mcp"
+  ]
+}
